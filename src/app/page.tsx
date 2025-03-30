@@ -121,8 +121,8 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">Why Choose Us</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              We're committed to quality craftsmanship and exceptional customer service.
-            </p>
+  We&apos;re committed to quality craftsmanship and exceptional customer service.
+</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -166,8 +166,8 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">What Our Clients Say</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Don't just take our word for it. Here's what our satisfied customers have to say.
-            </p>
+  Don&apos;t just take our word for it. Here&apos;s what our satisfied customers have to say.
+</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -206,7 +206,7 @@ export default function Home() {
                   </div>
                 </CardHeader>
                 <CardContent>
-                  <p className="italic">"{testimonial.quote}"</p>
+                <p className="italic">&quot;{testimonial.quote}&quot;</p>
                 </CardContent>
               </Card>
             ))}

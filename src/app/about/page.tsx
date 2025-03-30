@@ -33,22 +33,22 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">Our Story</h2>
               <div className="space-y-4 text-muted-foreground">
-                <p>
-                  We're a team of experienced stucco professionals who know how to get the job done right. No fancy
-                  talk, just quality work at fair prices.
-                </p>
-                <p>
-                  With over 20 years in the business, we've seen and fixed it all. From small repairs to complete home
-                  exteriors, we handle every project with the same attention to detail and commitment to quality.
-                </p>
-                <p>
-                  We're licensed, bonded, and insured, so you can trust us to take care of your property. We show up on
-                  time, clean up after ourselves, and make sure you're happy with the results.
-                </p>
-                <p>
-                  Bottom line: we do what we say we're going to do, when we say we're going to do it, for the price we
-                  quoted. That's how we've built our business and reputation over the years.
-                </p>
+        <p>
+  We&apos;re a team of experienced stucco professionals who know how to get the job done right. No fancy
+  talk, just quality work at fair prices.
+</p>
+<p>
+  With over 20 years in the business, we&apos;ve seen and fixed it all. From small repairs to complete home
+  exteriors, we handle every project with the same attention to detail and commitment to quality.
+</p>
+<p>
+  We&apos;re licensed, bonded, and insured, so you can trust us to take care of your property. We show up on
+  time, clean up after ourselves, and make sure you&apos;re happy with the results.
+</p>
+<p>
+  Bottom line: we do what we say we&apos;re going to do, when we say we&apos;re going to do it, for the price we
+  quoted. That&apos;s how we&apos;ve built our business and reputation over the years.
+</p>
               </div>
             </div>
             <div>

@@ -304,7 +304,7 @@ export default function GalleryPage() {
                     <p className="text-sm text-muted-foreground">{testimonial.location}</p>
                   </div>
                 </div>
-                <p className="italic">"{testimonial.quote}"</p>
+                <p className="italic">&quot;{testimonial.quote}&quot;</p>
               </div>
             ))}
           </div>
